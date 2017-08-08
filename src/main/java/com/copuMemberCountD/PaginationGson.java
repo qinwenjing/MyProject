@@ -74,7 +74,7 @@ public class PaginationGson<T> {
         return pageSize;
     }
 
-    public void setPageSize(int pageSize) {
+    public void  setPageSize(int pageSize) {
         this.pageSize = pageSize;
     }
 
