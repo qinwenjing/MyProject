@@ -98,7 +98,7 @@ public class PaginationGson<T> {
         }else{
             this.pageSize = totalCount/totalPage+1;
         }
-        init(list, pageSize);
+        init(list, pageSize );
     }
 
     public List<T> getNextPage(int pageNo){
