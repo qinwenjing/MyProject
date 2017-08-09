@@ -5,4 +5,6 @@ package com;
  */
 public class checkoutTest {
     private String name;
+    private String age;
+    private String sex;
 }
