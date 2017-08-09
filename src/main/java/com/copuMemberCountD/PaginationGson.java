@@ -104,7 +104,7 @@ public class PaginationGson<T> {
     public List<T> getNextPage(int pageNo){
         int fromIndex= 0;
         int toIndex = 0;
-        if(pageNo*pageSize<totalCount){
+        if(pageNo*pageSize<totalCount) {
             toIndex=pageNo*pageSize;
             fromIndex=toIndex-pageSize;
         }else if(pageNo==totalPage){
