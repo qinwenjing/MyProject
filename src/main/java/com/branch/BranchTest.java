@@ -5,5 +5,6 @@ package com.branch;
  */
 public class BranchTest {
     private String age;
-    private String name;
+    private String name = "qwj";
+
 }
