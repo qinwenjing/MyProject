@@ -20,5 +20,6 @@ public class Test {
             }
         }
         System.out.println("this is test1");
+        System.out.println("this is test2");
     }
 }
