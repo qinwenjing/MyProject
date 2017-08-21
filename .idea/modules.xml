@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyProjects.iml" filepath="$PROJECT_DIR$/MyProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/grademanagebiz.iml" filepath="$PROJECT_DIR$/grademanagebiz.iml" />
     </modules>
   </component>
 </project>

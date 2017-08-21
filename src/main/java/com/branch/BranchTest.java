@@ -7,6 +7,7 @@ public class BranchTest {
     private String age;
     private String name = "qwj";
     private String sex;
+    private String sss;
 
 
 }
